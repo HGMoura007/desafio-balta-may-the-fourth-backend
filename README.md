@@ -15,7 +15,7 @@ Desenvolvimento de uma API completa, fornecendo recursos como criação, leitura
 ### 💂‍♀️ Batalhão
 * [Fabio Pereira Barros e (https://github.com/fpbbarros2)]
 * [Mário Gomes e (https://github.com/MarioFGomes)]
-* [Rafael Almeida e GITHUB]
+* [Rafael Almeida e (https://github.com/rafaelalmeida12)]
 * [Vagner e (https://github.com/dbavagner)]
 
 ## ⚙️ Tecnologias

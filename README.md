@@ -10,13 +10,13 @@ Desenvolvimento de uma API completa, fornecendo recursos como criação, leitura
 
 ## Participantes
 ### 🚀 Capitão
-[NOME e GITHUB]
+[Humberto e (https://github.com/HGMoura007)]
 
 ### 💂‍♀️ Batalhão
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
+* [Fabio Pereira Barros e (https://github.com/fpbbarros2)]
+* [Mário Gomes e (https://github.com/MarioFGomes)]
+* [Rafael Almeida e GITHUB]
+* [Vagner e (https://github.com/dbavagner)]
 
 ## ⚙️ Tecnologias
 * C# 12

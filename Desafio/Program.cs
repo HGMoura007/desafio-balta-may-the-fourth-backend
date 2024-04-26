@@ -18,7 +18,7 @@ builder.Services.AddSwaggerGen(c =>
         Description = "",
         Contact = new OpenApiContact
         {
-            Name = "",
+            Name = "Humberto, Fábio, Mário, Rafael, Vagner",
             Url = new Uri("https://www.google.com.br")
         }
     });
